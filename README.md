@@ -118,5 +118,5 @@ These insights allow the bank to create targeted retention strategies.
 
 ## 📎 Dataset
 
-The dataset is located at: https://raw.githubusercontent.com/notice4/public-datasets-for-analytics/refs/heads/main/datasets/bank_churn_dataset.csv  
+The dataset is located at: https://raw.githubusercontent.com/notice4/bank-customer-churn-analytics/refs/heads/main/data/bank_churn_dataset.csv  
 
